@@ -88,3 +88,21 @@ main .main-container-search:hover {
     border-color: black ;
     border-radius: 100px;
 }
+
+main .search-icon {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
+
+main .main-container-search .micro-icon {
+    background-image: url('https://seeklogo.com/images/G/google-mic-logo-EF440C9A6F-seeklogo.com.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
