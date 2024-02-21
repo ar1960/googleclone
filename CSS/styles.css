@@ -75,3 +75,10 @@ main .main-container-search .container-search {
     justify-content: center;
     align-items: center;
 }
+
+main .main-container-search input {
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
+}
