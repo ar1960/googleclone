@@ -72,4 +72,6 @@ main .main-container-search .container-search {
     border-radius: 100px;
     border: 1px solid gray;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
