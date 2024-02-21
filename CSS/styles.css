@@ -68,7 +68,7 @@ main .main-container-search {
 }
 
 main .main-container-search .container-search {
-    width: 520px;
+    width: 525px;
     border-radius: 100px;
     border: 1px solid gray;
     display: flex;
@@ -81,4 +81,10 @@ main .main-container-search input {
     height: 40px;
     border: none;
     outline: none;
+}
+
+main .main-container-search:hover {
+    box-shadow: 0 3px 6px 0 #25252547;
+    border-color: black ;
+    border-radius: 100px;
 }
