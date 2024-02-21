@@ -66,3 +66,10 @@ main .main-container-search {
     margin: 0 auto;
     margin-bottom: 35px;
 }
+
+main .main-container-search .container-search {
+    width: 520px;
+    border-radius: 100px;
+    border: 1px solid gray;
+    display: flex;
+}
