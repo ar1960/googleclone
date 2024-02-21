@@ -41,3 +41,7 @@ header nav ul a {
     width: 25px;
     height: 25px;
 }
+
+header nav img {
+    border-radius: 50%;
+}
